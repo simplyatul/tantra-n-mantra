@@ -26,4 +26,4 @@ $ cd /tmp
 $ python -m http.server 8000
 ```
 
-Now file in /tmp folder can be viewed in browser using http://<ip>:8000
+Now files in /tmp folder can be viewed/downlaoded in browser using http://\<ip\>:8000
